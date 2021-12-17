@@ -1,7 +1,7 @@
 id: P000804
 initial_creation_type: ocr
 created_at: 1/04/2021
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-17 10:11:29.591177
 source_metadata:
   id: bdr:W1KG16666
   title: རྔོག་སློབ་བརྒྱུད་དང་བཅས་པའི་གསུང་འབུམ།
@@ -143,3 +143,5 @@ source_metadata:
       title: ''
       base_file: v034.txt
   author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
